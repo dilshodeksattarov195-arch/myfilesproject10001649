@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerconnect",
+        "uuid": 8365377,
+        "checksum": "4byboo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
